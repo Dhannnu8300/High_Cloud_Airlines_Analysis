@@ -17,4 +17,6 @@ SQL, Power BI, Tableau, Python (Pandas, Numpy)
   airline load factors.
   
 ## Recommendations:
-Strategic marketing for weekend travel, optimizing flight allocations for longer distances, and enhancing customer experience. The dashboards provide data-driven insights to improve airline performance and passenger satisfaction.
+- Strategic marketing for weekend travel 
+- Optimizing flight allocations for longer distances
+- Enhancing customer experience.
