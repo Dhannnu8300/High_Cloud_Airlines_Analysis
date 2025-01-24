@@ -16,4 +16,5 @@ SQL, Power BI, Tableau, Python (Pandas, Numpy)
 - It involves data extraction, cleaning, and visualization using Excel, Power BI, Tableau, and MySQL. Insights highlight higher passenger traffic on weekdays, variations in flight distances, and disparities in 
   airline load factors.
   
-## Recommendations: strategic marketing for weekend travel, optimizing flight allocations for longer distances, and enhancing customer experience. The dashboards provide data-driven insights to improve airline performance and passenger satisfaction.
+## Recommendations:
+Strategic marketing for weekend travel, optimizing flight allocations for longer distances, and enhancing customer experience. The dashboards provide data-driven insights to improve airline performance and passenger satisfaction.
